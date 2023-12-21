@@ -1,0 +1,25 @@
+{
+  "anggaran": [
+    {
+      "idUser": 0,
+      "jenis": 1,
+      "nama": "Jajan",
+      "saldo": 0,
+      "saldoTarget": 100000
+    },
+    {
+      "idUser": 0,
+      "jenis": 0,
+      "nama": "Tabungan",
+      "saldo": 0,
+      "saldoTarget": 10000000
+    },
+    {
+      "idUser": 0,
+      "jenis": 0,
+      "nama": "Healing",
+      "saldo": 0,
+      "saldoTarget": 1000000
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "riwayat_keuangan": [
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702054800000,
+      "saldo": 10000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702054800000,
+      "saldo": 50000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702054800000,
+      "saldo": 100000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702141200000,
+      "saldo": 30000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702141200000,
+      "saldo": 50000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702141200000,
+      "saldo": 50000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702227600000,
+      "saldo": 5000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702227600000,
+      "saldo": 100000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702227600000,
+      "saldo": 100000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702314000000,
+      "saldo": 100000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702314000000,
+      "saldo": 20000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702314000000,
+      "saldo": 20000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702400400000,
+      "saldo": 50000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702400400000,
+      "saldo": 50000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702400400000,
+      "saldo": 50000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702486800000,
+      "saldo": 10000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702486800000,
+      "saldo": 10000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702486800000,
+      "saldo": 10000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 1,
+      "tanggal": 1702573200000,
+      "saldo": 20000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 2,
+      "tanggal": 1702573200000,
+      "saldo": 100000
+    },
+    {
+      "idUser": 0,
+      "idAnggaran": 3,
+      "tanggal": 1702573200000,
+      "saldo": 50000
+    }
+  ]
+}

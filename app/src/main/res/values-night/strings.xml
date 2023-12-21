@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hemat">HEMAT</string>
+    <string name="normal">NORMAL</string>
+    <string name="boros">BOROS</string>
+    <string name="jenis_harus_dipilih">Jenis harus dipilih</string>
+    <string name="nama_harus_diisi">Nama harus diisi</string>
+    <string name="saldo_target_harus_diisi">Saldo Target harus diisi</string>
+    <string name="saldo_target_tidak_boleh_kurang_dari_rp1000">Saldo Target tidak boleh kurang dari Rp1000</string>
+    <string name="anggaran_berhasil_dibuat">Anggaran berhasil dibuat</string>
+    <string name="anggaran_berhasil_diupdate">Anggaran berhasil diupdate</string>
+    <string name="saldo_berhasil_direset">Saldo berhasil direset</string>
+    <string name="saldo_harus_diisi">Saldo harus diisi</string>
+    <string name="saldo_anggaran_berhasil_diinput">Saldo Anggaran berhasil diinput</string>
+    <string name="gagal_memunculkan_kamera">Gagal memunculkan kamera.</string>
+    <string name="gagal_mengambil_gambar">Gagal mengambil gambar.</string>
+    <string name="fitur_ini_belum_tersedia">Fitur ini belum tersedia</string>
+</resources>

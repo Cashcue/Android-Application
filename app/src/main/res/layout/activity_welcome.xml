@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.welcome.WelcomeActivity">
+
+    <TextView
+        android:id="@+id/tv_cashcue1"
+        android:layout_width="203dp"
+        android:layout_height="93dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/monsterrat_bold"
+        android:gravity="top"
+        android:lineHeight="82sp"
+        android:text="@string/cashcue1"
+        android:textColor="@color/green1"
+        android:textSize="75sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.216"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.069" />
+
+    <TextView
+        android:id="@+id/tv_cashcue2"
+        android:layout_width="176dp"
+        android:layout_height="82dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/monsterrat_bold"
+        android:gravity="top"
+        android:lineHeight="82sp"
+        android:text="@string/cashcue2"
+        android:textColor="@color/primary"
+        android:textSize="75sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.191"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.219" />
+
+    <View
+        android:id="@+id/iv_cashcue_1"
+        android:layout_width="370dp"
+        android:layout_height="568dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/cashcue_1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/iv_cashcue_2"
+        android:layout_width="370dp"
+        android:layout_height="568dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="148dp"
+        android:background="@drawable/cashcue_2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_keeping_you1"
+        android:layout_width="160dp"
+        android:layout_height="72dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="208dp"
+        android:fontFamily="@font/inter_medium"
+        android:gravity="right|top"
+        android:lineHeight="34sp"
+        android:textSize="28sp"
+        android:textColor="@color/primary"
+        android:text="@string/keeping_you1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.836"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_keeping_you2"
+        android:layout_width="168dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="72dp"
+        android:fontFamily="@font/inter_medium"
+        android:gravity="left|top"
+        android:lineHeight="34sp"
+        android:text="@string/keeping_you2"
+        android:textColor="@color/green2"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tv_keeping_you1" />
+
+    <TextView
+        android:id="@+id/keeping_you3"
+        android:layout_width="168dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="72dp"
+        android:fontFamily="@font/inter_medium"
+        android:gravity="right|top"
+        android:lineHeight="34sp"
+        android:text="@string/keeping_you3"
+        android:textColor="@color/primary"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.831"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tv_keeping_you1" />
+
+    <TextView
+        android:id="@+id/keeping_you4"
+        android:layout_width="168dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="36dp"
+        android:fontFamily="@font/inter_medium"
+        android:gravity="left|top"
+        android:lineHeight="34sp"
+        android:text="@string/keeping_you4"
+        android:textColor="@color/primary"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.831"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tv_keeping_you2" />
+
+    <Button
+        android:id="@+id/btn_getstarted"
+        android:layout_width="264dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/get_started"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/keeping_you4" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
